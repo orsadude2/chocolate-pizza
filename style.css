@@ -1,3 +1,49 @@
-ul {
-  list-style-image: none;
+body {
+
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+#Companytagline {
+
+  display: inline-block;
+}
+
+#company {
+  float: left;
+  font-size: 36px;
+  font-family: 'Yellowtail', cursive;
+}
+
+#tagline {
+  color: grey;
+  float: none;
+  font-size: 8px;
+  font-family:monospace;
+}
+
+#right-header {
+  display: inline-block;
+  margin-left: 250px;
+  padding-left: 200px;
+}
+
+#recipetitle {
+  font-family: 'Abel', sans-serif;
+
+}
+
+#blogdtg {
+
+  font-family: monospace;
+  color: grey;
+  float: left;
+}
+#mainimage {
+  text-align: center;
+
+}
+
+.instructions {
+text-indent:
 }
